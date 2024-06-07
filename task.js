@@ -65,4 +65,3 @@ taskManager.removeTask(task3.id);
 taskManager.sortTasksByPriority();
 
 console.log(taskManager.tasks);
-// Output: [
